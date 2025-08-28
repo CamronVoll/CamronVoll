@@ -1,17 +1,17 @@
 <h1 align="center">Salut👋, je suis Camron</h1>
 <h3 align="center">Un développeur passionné par le web et la cybersécurité basé en France.</h3>
 
-- 🔧 Je travaille actuellement sur : **Mon Anti-Cheat Roblox**
+- 🔧 Je travaille actuellement sur : **Projet python**
 
 - 🌱 J’apprends actuellement : **JavaScript / Python / Hardware / cybersécurité offensive (CTF, OSINT, etc.)**
 
-- 🤝 Je cherche à collaborer sur : **Des projets de cybersécurité ou de développement web**
+- 🤝 J'étudie actuellement : **Au Lycée Louis de Cormontaigne en bac pro CIEL**
 
 - 🙋 Je cherche de l'aide sur : **Apprendre du code / Apprendre l'électronique**
 
-- 💬 Demande-moi à propos de : **scripts Lua, Electronique, développement web, Python**
+- 💬 Demande-moi à propos de : **scripts Lua, Electronique, Python**
 
-- 📫 Me contacter : **f_society5 (discord)**
+- 📫 Me contacter : **fsniper_root (discord)**
 
 - ⚡ Fun fact : **Je peux passer des heures à résoudre un bug sans lâcher l'affaire**
 
