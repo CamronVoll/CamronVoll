@@ -1,17 +1,17 @@
 <h1 align="center">Salut👋, je suis Camron</h1>
 <h3 align="center">Un développeur passionné par le web et la cybersécurité basé en France.</h3>
 
-- 🔧 Je travaille actuellement sur : **Projet python**
+- 🔧 Je travaille actuellement sur : **L'apprentissage du pentest**
 
-- 🌱 J’apprends actuellement : **JavaScript / Python / Hardware / cybersécurité offensive (CTF, OSINT, etc.)**
+- 🌱 J’apprends actuellement : **Le pentest / Le reseau**
 
-- 🤝 J'étudie actuellement : **Au Lycée Louis de Cormontaigne en bac pro CIEL**
+- 🤝 J'étudie actuellement : **Au Lycée Louis de Cormontaigne en Seconde TNE**
 
-- 🙋 Je cherche de l'aide sur : **Apprendre du code / Apprendre l'électronique**
+- 🙋 Je cherche de l'aide sur : **Apprendre du code / Apprendre l'informatique**
 
-- 💬 Demande-moi à propos de : **scripts Lua, Electronique, Python**
+- 💬 Demande-moi à propos de : **Python**
 
-- 📫 Me contacter : **fsniper_root (discord)**
+- 📫 Me contacter : **sniper_root (discord)**
 
 - ⚡ Fun fact : **Je peux passer des heures à résoudre un bug sans lâcher l'affaire**
 
